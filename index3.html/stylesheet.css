@@ -81,7 +81,7 @@ body {
 	 padding-top: 20px;
 	 clear: both;
 	 display: grid;
-	 grid-template-columns: 70vw 30vw
+	 grid-template-columns: 70vw 30vw;
  }
  /* -------------------- main -------------------- */
  #main {
